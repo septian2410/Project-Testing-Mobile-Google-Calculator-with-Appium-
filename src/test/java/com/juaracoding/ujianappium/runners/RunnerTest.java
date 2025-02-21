@@ -6,8 +6,10 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = {
-                "src/test/resources/features/CalculatorGoogle.feature",
+
                 "src/test/resources/features/CalculatorGoogle2.feature",
+                "src/test/resources/features/CalculatorGoogle.feature",
+                "src/test/resources/features/Kalkulator.feature",
         },
         glue = {
                 "com.juaracoding.ujianappium.hooks",

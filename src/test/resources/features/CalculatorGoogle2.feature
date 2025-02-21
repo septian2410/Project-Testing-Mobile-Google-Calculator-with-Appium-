@@ -1,4 +1,4 @@
-Feature: Calculator Google2
+Feature: Calculator Google with Scenario Outline
 
   Scenario Outline: Hitung Penjumlahan Sederhana dengan hasil puluhan & ratusan
     Given saya menekan tombol clear

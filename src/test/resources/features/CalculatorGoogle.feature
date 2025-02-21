@@ -1,4 +1,4 @@
-Feature: Calculator Google1
+Feature: Calculator Google (Single Scenario)
 
   Scenario: Hitung Penjumlahan Sederhana
     Given saya menekan tombol clear pada calculator

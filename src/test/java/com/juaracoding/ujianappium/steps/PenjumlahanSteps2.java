@@ -29,9 +29,9 @@ public class PenjumlahanSteps2 {
 
     @And("saya menekan tombol {int}")
     public void clickButtonNumber(Integer angka) {
-        // Konversi angka menjadi klik tombol yang sesuai
+        // Konversi Interger -- String
         String angkaStr = angka.toString();
-        for (char digit : angkaStr.toCharArray()) {
+        for (char digit : angkaStr.toCharArray()) {  //char[] charArray = {'1', '0'}; --> 1,0
             switch (digit) {
                 case '0': calculatorGoogleScreen.clickZero(); break;
                 case '1': calculatorGoogleScreen.clickOne(); break;
