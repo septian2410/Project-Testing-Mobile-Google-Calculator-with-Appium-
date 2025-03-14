@@ -30,8 +30,5 @@ Menguji otomatisasi Google Calculator menggunakan Appium. Pengujian mencakup val
 ![compile ujian appium](https://github.com/user-attachments/assets/304a7899-3837-4f30-9011-27256e42a310)
 
 
-
 ## License
-Jakarta 
-Pandu Septiandito
-Since 2025
+Pandu Septiandito, Jakarta, Since 2025
